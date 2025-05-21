@@ -1,2 +1,3 @@
 src/usb_camera_publisher/usb_camera_publisher/videos/*.mp4
 src/usb_camera_publisher/usb_camera_publisher/videos/*.avi
+src/usb_camera_publisher/usb_camera_publisher/videos
