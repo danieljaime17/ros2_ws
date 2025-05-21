@@ -1,0 +1,4 @@
+[console_scripts]
+detector_objetos = usb_camera_publisher.detector_objetos:main
+usb_camera_node = usb_camera_publisher.usb_camera_node:main
+

@@ -1,0 +1,15 @@
+setup.cfg
+setup.py
+../../build/usb_camera_publisher/usb_camera_publisher.egg-info/PKG-INFO
+../../build/usb_camera_publisher/usb_camera_publisher.egg-info/SOURCES.txt
+../../build/usb_camera_publisher/usb_camera_publisher.egg-info/dependency_links.txt
+../../build/usb_camera_publisher/usb_camera_publisher.egg-info/entry_points.txt
+../../build/usb_camera_publisher/usb_camera_publisher.egg-info/requires.txt
+../../build/usb_camera_publisher/usb_camera_publisher.egg-info/top_level.txt
+../../build/usb_camera_publisher/usb_camera_publisher.egg-info/zip-safe
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+usb_camera_publisher/__init__.py
+usb_camera_publisher/detector_objetos.py
+usb_camera_publisher/usb_camera_node.py
