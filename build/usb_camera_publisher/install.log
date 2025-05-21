@@ -1,6 +1,10 @@
+/home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/camera_front_node.py
+/home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/camera_rear_node.py
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/detector_objetos.py
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/__init__.py
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/usb_camera_node.py
+/home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/__pycache__/camera_front_node.cpython-310.pyc
+/home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/__pycache__/camera_rear_node.cpython-310.pyc
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/__pycache__/detector_objetos.cpython-310.pyc
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/__pycache__/__init__.cpython-310.pyc
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher/__pycache__/usb_camera_node.cpython-310.pyc
@@ -11,5 +15,7 @@
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher-0.0.1-py3.10.egg-info/PKG-INFO
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher-0.0.1-py3.10.egg-info/dependency_links.txt
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher-0.0.1-py3.10.egg-info/top_level.txt
+/home/lenovo/ros2_ws/install/usb_camera_publisher/lib/usb_camera_publisher/camera_front_node
+/home/lenovo/ros2_ws/install/usb_camera_publisher/lib/usb_camera_publisher/camera_rear_node
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/usb_camera_publisher/detector_objetos
 /home/lenovo/ros2_ws/install/usb_camera_publisher/lib/usb_camera_publisher/usb_camera_node

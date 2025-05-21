@@ -15,7 +15,9 @@ setup(
     entry_points={
         'console_scripts': [
             'usb_camera_node = usb_camera_publisher.usb_camera_node:main',
-            'detector_objetos = usb_camera_publisher.detector_objetos:main'
+            'camera_front_node = usb_camera_publisher.camera_front_node:main',
+            'camera_rear_node = usb_camera_publisher.camera_rear_node:main',
+	    'detector_objetos = usb_camera_publisher.detector_objetos:main'
         ],
     },
 )

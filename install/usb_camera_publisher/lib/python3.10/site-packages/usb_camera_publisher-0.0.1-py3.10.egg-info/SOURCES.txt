@@ -11,5 +11,7 @@ test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
 usb_camera_publisher/__init__.py
+usb_camera_publisher/camera_front_node.py
+usb_camera_publisher/camera_rear_node.py
 usb_camera_publisher/detector_objetos.py
 usb_camera_publisher/usb_camera_node.py
