@@ -1,0 +1,24 @@
+[0.316s] Invoking command in '/home/danijaime17/ros2_ws/src/usb_camera_publisher': PYTHONPATH=/home/danijaime17/ros2_ws/build/usb_camera_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danijaime17/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/usb_camera_publisher build --build-base /home/danijaime17/ros2_ws/build/usb_camera_publisher/build install --record /home/danijaime17/ros2_ws/build/usb_camera_publisher/install.log --single-version-externally-managed
+[0.428s] running egg_info
+[0.429s] writing ../../build/usb_camera_publisher/usb_camera_publisher.egg-info/PKG-INFO
+[0.430s] writing dependency_links to ../../build/usb_camera_publisher/usb_camera_publisher.egg-info/dependency_links.txt
+[0.430s] writing entry points to ../../build/usb_camera_publisher/usb_camera_publisher.egg-info/entry_points.txt
+[0.430s] writing requirements to ../../build/usb_camera_publisher/usb_camera_publisher.egg-info/requires.txt
+[0.430s] writing top-level names to ../../build/usb_camera_publisher/usb_camera_publisher.egg-info/top_level.txt
+[0.431s] reading manifest file '../../build/usb_camera_publisher/usb_camera_publisher.egg-info/SOURCES.txt'
+[0.432s] writing manifest file '../../build/usb_camera_publisher/usb_camera_publisher.egg-info/SOURCES.txt'
+[0.432s] running build
+[0.432s] running build_py
+[0.432s] running install
+[0.432s] running install_lib
+[0.433s] running install_egg_info
+[0.434s] removing '/home/danijaime17/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher-0.0.1-py3.10.egg-info' (and everything under it)
+[0.434s] Copying ../../build/usb_camera_publisher/usb_camera_publisher.egg-info to /home/danijaime17/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages/usb_camera_publisher-0.0.1-py3.10.egg-info
+[0.435s] running install_scripts
+[0.449s] Installing camera_front_node script to /home/danijaime17/ros2_ws/install/usb_camera_publisher/lib/usb_camera_publisher
+[0.449s] Installing camera_rear_node script to /home/danijaime17/ros2_ws/install/usb_camera_publisher/lib/usb_camera_publisher
+[0.450s] Installing detector_objetos script to /home/danijaime17/ros2_ws/install/usb_camera_publisher/lib/usb_camera_publisher
+[0.450s] Installing record_node script to /home/danijaime17/ros2_ws/install/usb_camera_publisher/lib/usb_camera_publisher
+[0.450s] Installing usb_camera_node script to /home/danijaime17/ros2_ws/install/usb_camera_publisher/lib/usb_camera_publisher
+[0.450s] writing list of installed files to '/home/danijaime17/ros2_ws/build/usb_camera_publisher/install.log'
+[0.467s] Invoked command in '/home/danijaime17/ros2_ws/src/usb_camera_publisher' returned '0': PYTHONPATH=/home/danijaime17/ros2_ws/build/usb_camera_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danijaime17/ros2_ws/install/usb_camera_publisher/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/usb_camera_publisher build --build-base /home/danijaime17/ros2_ws/build/usb_camera_publisher/build install --record /home/danijaime17/ros2_ws/build/usb_camera_publisher/install.log --single-version-externally-managed
